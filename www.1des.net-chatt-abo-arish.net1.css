@@ -16,11 +16,11 @@ label.ae.fa.label {
 }
 
 .light {
-    background-color: #edfff2;
+    background-color: #a3d9bd;
 }
 
 .bg {
-    background-color: #63bb7a;
+    background-color: #54a47b;
 }
 
 
@@ -29,12 +29,12 @@ ul.nav.nav-tabs>li>a {
 }
 
 #des0 {
-	background-color: #159035;
+	background-color: #206B45;
 }
 
 .label-primary, .btn-primary {
     background-color: #159035!important;
-    background-image: -webkit-linear-gradient(right,#58b370 0,#159035 120%)!important;
+    background-image: -webkit-linear-gradient(right,#35895f 0,#206B45 120%)!important;
     border-radius: 25px;
 }
 
@@ -79,7 +79,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-color: #159035;
+    background-color: #206B45;
 }
 
 
