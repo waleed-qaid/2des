@@ -16,7 +16,7 @@ label.ae.fa.label {
 }
 
 .light {
-    background-color: #a3d9bd;
+    background-color: #e5fbf0;
 }
 
 .bg {
@@ -33,7 +33,7 @@ ul.nav.nav-tabs>li>a {
 }
 
 .label-primary, .btn-primary {
-    background-color: #159035!important;
+    background-color: #206b45!important;
     background-image: -webkit-linear-gradient(right,#35895f 0,#206B45 120%)!important;
     border-radius: 25px;
 }
