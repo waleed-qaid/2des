@@ -423,7 +423,7 @@ li#react-tabs-1 {
 
 
 .btn-primary {
-    background-color: #c0c0c0!important;
+    background-color: #c0c0c0;
 }
 
 
@@ -487,10 +487,7 @@ span.chat_pane__room_item__users.corner.fa.fa-user.label.label-primary.fr {
 	font-weight: 700;
 }
 
-span {
-    font-weight: 700;
-    font-size: 15px;
-}
+
 
 .chat_pane__header {
     position: relative;
