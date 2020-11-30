@@ -487,10 +487,7 @@ span.chat_pane__room_item__users.corner.fa.fa-user.label.label-primary.fr {
 	font-weight: 700;
 }
 
-span {
-    font-weight: 700;
-    font-size: 15px;
-}
+
 
 .chat_pane__header {
     position: relative;
