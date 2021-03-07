@@ -1,4 +1,4 @@
-﻿
+
 .border {
     border: 2px solid #ffffff!important;
     border-top: 1px solid #f7dada!important;
@@ -16,25 +16,25 @@ label.ae.fa.label {
 }
 
 .light {
-    background-color: #f6fcff;
+    background-color: #fdf7f7;
 }
 
 .bg {
-    background-color: #31516f;
+    background-color: #402f2f;
 }
 
 
 ul.nav.nav-tabs>li>a {
-    color: #b44087;
+    color: #2b1515;
 }
 
 #des0 {
-	background-color: #b44087;
+	background-color: #2b1515;
 }
 
 .label-primary, .btn-primary {
-    background-color: #b44087!important;
-	background-image: -webkit-linear-gradient(right,#ca78aa 0,#b44087 120%)!important;
+    background-color: #2b1515!important;
+	background-image: -webkit-linear-gradient(right,#4e3333 0,#2b1515 120%)!important;
     border-radius: 25px;
 }
 
@@ -79,7 +79,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-color: #b44087;
+    background-color: #2b1515;
 }
 
 
